@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class aa {
 	public static void main(String[] args) {
-
+        System.out.println("====Program to fetch middle character in word====");
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Enter Word here=");
 	String ip=sc.next();
